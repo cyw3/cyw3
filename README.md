@@ -1,7 +1,7 @@
 ## Hey, cyw3 here! :wave:
 
-[<img align="right" width="50%" src="https://github-readme-stats-cyw3.vercel.app/api?username=cyw3&theme=dark&show_icons=true">](https://github-readme-stats.vercel.app/api?username=cyw3&theme=dark)
-[<img align="right" width="50%" src="https://github-readme-stats-cyw3.vercel.app/api?username=cyw3&show_icons=true">](https://metrics.lecoq.io/cyw3#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=cyw3&theme=dark)
+![](https://metrics.lecoq.io/cyw3#gh-light-mode-only)
 
 I'm YaleChen.
 
@@ -173,9 +173,3 @@ I'm YaleChen.
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
-
----
-
-<!--END_SECTION:waka-->
-
----
