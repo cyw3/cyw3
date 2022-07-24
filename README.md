@@ -1,7 +1,7 @@
 ## Hey, cyw3 here! :wave:
 
 ![](https://github-readme-stats.vercel.app/api?username=cyw3&theme=dark)
-![](https://metrics.lecoq.io/cyw3#gh-light-mode-only)
+<!-- ![](https://metrics.lecoq.io/cyw3#gh-light-mode-only) -->
 
 I'm YaleChen.
 
