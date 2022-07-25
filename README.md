@@ -5,7 +5,7 @@
 
 I'm YaleChen.
 
--   :hammer_and_pick: Python / Java / Rust / Kotlin / Scala
+-   :hammer_and_pick: Python / Java / Go / Rust / Kotlin / Scala
 -   :pencil2: [Tencent Code Analysis](https://github.com/Tencent/CodeAnalysis) / [Graal](https://github.com/cyw3/graal)
 -   :seedling: Work at Tencent
 -   :man: Pronouns: he/him
